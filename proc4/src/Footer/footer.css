@@ -1,0 +1,96 @@
+
+
+
+.footer{
+    background: #4F4F4F;
+    display: flex;
+    justify-content: space-around;
+}
+/* .foot1 img{
+    left: 19.79%;
+    right: 69.64%;
+    top: 14.75%;
+    bottom: 73.04%
+} */
+.foot2{
+    /* margin-left: 100px; */
+}
+.foot2 p{
+    width: 128px;
+height: 17px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+letter-spacing: -0.3px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+margin-bottom: 30px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.foot1 p {
+   
+    left: 19.79%;
+    right: 61.25%;
+    top: 33.41%;
+    bottom: 45.85%;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: -0.3px;
+    
+    color: #AFAFAF;
+}
+.foot3{
+    margin-left: 100px;
+}
+.foot3 p {
+    left: 58.12%;
+right: 36.15%;
+top: 17.28%;
+bottom: 79.26%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+letter-spacing: -0.3px;
+
+color: #FFFFFF;
+}
+.logotip{
+    display: flex;
+    margin-bottom: 20px;
+}
+.logotip p{
+    margin-left: 10px;
+}
+.logotip img{
+    width: 36px;
+    height: 36px;
+}
+#logos img{
+margin-left: 35px;
+}
+#logos{
+    margin-bottom: 22px
+}
+.apple img{
+    margin-left: 18px;
+
+}

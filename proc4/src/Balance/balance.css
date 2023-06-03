@@ -1,0 +1,166 @@
+#h11 {
+  margin-top: 104px;
+  margin-left: 185px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: -0.3px;
+
+  /* Gray 2 */
+
+  color: #4F4F4F;
+  ;
+}
+
+.money {
+  margin-left: 185px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height */
+
+  letter-spacing: -0.3px;
+
+  /* Green 1 */
+
+  color: #219653;
+}
+
+.money-bal {
+  display: flex;
+}
+
+.buton1 {
+  background: #56CCF2;
+  border-radius: 10px;
+  width: 355px;
+  height: 40px;
+  border: none;
+  margin-top: 25px;
+  margin-left: 20px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: -0.3px;
+
+  color: #FFFFFF;
+}
+.h3{
+  margin-left: 185px;
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+letter-spacing: -0.3px;
+
+/* Gray 2 */
+
+color: #4F4F4F;
+}
+.time{
+  display: flex;
+
+
+
+margin-left: 115px;
+}
+.time h2{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  
+  
+  letter-spacing: -0.3px;
+  
+  color: #A0A0A0;
+  margin-left: 65px;
+  
+}
+.bank-info{
+  background: #F6F8FB;
+border-radius: 10px;
+display: flex;
+width: 1145px;
+height: 68px;
+margin: auto;
+margin-bottom: 30px;
+align-items: center;
+justify-content: space-between;
+}
+.bank-info img{
+  margin-left: 40px;
+  border-radius: 3px;
+}
+.balance{
+  margin-bottom: 400px;
+}
+.bank-info h2{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+letter-spacing: -0.3px;
+
+/* Gray 2 */
+
+color: #4F4F4F;
+
+}
+.bank-info h3{
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+letter-spacing: -0.3px;
+
+color: #A0A0A0;
+}
+#plus-money{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+letter-spacing: -0.3px;
+
+/* Green 1 */
+
+color: #219653;
+}
+.minus-money{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+letter-spacing: -0.3px;
+
+/* Red */
+
+color: #EB5757;
+}
